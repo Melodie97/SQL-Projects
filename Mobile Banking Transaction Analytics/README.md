@@ -1,4 +1,4 @@
-## Mobile Banking Transaction Analytics
+## Mobile Banking Analytics
 
 This Analytics was done for an organganization I worked with so the data would not be available.
 
