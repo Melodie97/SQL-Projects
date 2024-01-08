@@ -10,6 +10,7 @@ The Aim of the analytics was to guage how customers interacted with the differen
 - Identify if a feature needs to be optimized or improved
 
 The analytics involved tracking customer transactions using the different features of the mobile app and placing customers in a frequency bucket according their frequency.
-This project just highlights analytics done one one app feature which is airtime purchase.
+
+This project only highlights analytics done one one app feature which is airtime purchase.
 to the frequency of their transactions.
 Some of the skills used include: CTEs, Joins, Window functions, Group by etc.
